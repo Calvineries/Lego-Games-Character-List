@@ -1,5 +1,9 @@
-Game : LEGO® City Undercover
+Game : LEGO® City Undercover  
+Vehicles List : https://github.com/Calvineries/LCU-Vehicles-List  
 
+---
+
+Characters with a .TXT file
 |Character Name|Is in Collection?|Works?*
 |-|-|-|
 ALIEN|❌|
@@ -427,4 +431,21 @@ ROBBER_VINNIEPAPPALARDOSUIT|❌|
 ROBBER_VINNIEPAPPALARDOTRACKSUIT|✅|✅
 ROBBER_VINNIEPAPPALARDO_CLOWN|✅|✅
 
-* Without having to modify the character
+---
+
+Characters with only a .CD file:
+|Character Name|Is in Collection?|
+|-|-|
+ABELINCOLN|❌
+CARLTHECRUSHERWALNUTS|❌
+CITY|❌
+COP_CHASE_NEW|❌
+FLASHHOTSHOTJOHNSON|❌
+LENNYSLICKSANTOS|❌
+NPC_GLEESONSECURITY|❌
+SECRETARY_HONEY|❌
+SMOKEYESCOBAR|❌
+RINGMASTER|❌
+TONTKNUCKLESMCGEE|❌
+VONCRUNCHMAN|❌
+WORSTCASE|❌
