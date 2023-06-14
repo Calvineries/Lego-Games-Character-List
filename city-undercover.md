@@ -1,6 +1,6 @@
 Game : LEGO® City Undercover
 
-|Character Name|Is in Collection?|Works?
+|Character Name|Is in Collection?|Works?*
 |-|-|-|
 ALIEN|❌|
 ASTRONAUT|✅|✅
@@ -426,3 +426,5 @@ ROBBER_VINNIEPAPPALARDO|✅|✅
 ROBBER_VINNIEPAPPALARDOSUIT|❌|
 ROBBER_VINNIEPAPPALARDOTRACKSUIT|✅|✅
 ROBBER_VINNIEPAPPALARDO_CLOWN|✅|✅
+
+* Without having to modify the character
