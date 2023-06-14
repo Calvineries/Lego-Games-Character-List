@@ -1,4 +1,5 @@
 Game: The LEGO® Movie - Videogame  
+/!\ This list is not yet complete!
   
 |Character Name|Is in Collection?|Works?
 |-|-|-|
