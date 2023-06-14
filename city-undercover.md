@@ -4,7 +4,7 @@ Vehicles List : https://github.com/Calvineries/LCU-Vehicles-List
 ---
 
 Characters with a .TXT file
-|Character Name|Is in Collection?|TXT File Works?*
+|Character Name|Is in Collection?|Does the .TXT file work?
 |-|-|-|
 ALIEN|❌|
 ASTRONAUT|✅|✅
