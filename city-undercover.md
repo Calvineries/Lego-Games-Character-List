@@ -1,12 +1,13 @@
 Game : LEGO® City Undercover  
 Vehicles List : https://github.com/Calvineries/LCU-Vehicles-List  
   
-- [Unused characters with a .TXT file](https://github.com/Calvineries/Lego-Games-Character-List/blob/main/city-undercover.md#L8)
-- [Unused characters with only a .CD file](https://github.com/Calvineries/Lego-Games-Character-List/blob/main/city-undercover.md#L130)
-- [Used Characters with a .TXT file](https://github.com/Calvineries/Lego-Games-Character-List/blob/main/city-undercover.md#L217)
+- [Unused characters with a .TXT file](#unusedtxt)
+- [Unused characters with only a .CD file](#unusedcd)
+- [Used Characters with a .TXT file](#nusedtxt)
 ---
 
-Unused characters with a .TXT file
+<a id="unusedtxt"></a>
+## Unused characters with a .TXT file
 |Character Name|Is in Collection?|Does the .TXT file work?
 |-|-|-|
 ALIEN|❌|
@@ -128,7 +129,8 @@ ROBBER_VINNIEPAPPALARDOSUIT|❌|
 
 ---
 
-Unused characters with only a .CD file:
+<a id="unusedcd"></a>
+## Unused characters with only a .CD file:
 |Character Name|Is in Collection?|
 |-|-|
 3DSCOP2|❌
@@ -215,7 +217,8 @@ WORSTCASE|❌
 
 ---
 
-Used Characters with a .TXT file
+<a id="nusedtxt"></a>
+## Used Characters with a .TXT file
 |Character Name|Is in Collection?
 |-|-|
 ASTRONAUT|✅
