@@ -5,5 +5,5 @@ The lists can be used to complete "The Cutting Room Floor" pages or for those wh
 
 |Game|Release Date|Character List
 |-|-|-|
-LEGO® City Undercover|2013|https://github.com/Calvineries/Lego-Games-Character-List/blob/main/city-undercover.md
-The LEGO® Movie - Videogame|2014|https://github.com/Calvineries/Lego-Games-Character-List/blob/main/movie-1.md
+LEGO® City Undercover|2013|[city-undercover.md](https://github.com/Calvineries/Lego-Games-Character-List/blob/main/city-undercover.md)
+The LEGO® Movie - Videogame|2014|[movie-1.md](https://github.com/Calvineries/Lego-Games-Character-List/blob/main/movie-1.md)
