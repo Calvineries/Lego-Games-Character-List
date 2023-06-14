@@ -1,6 +1,6 @@
 Game : LEGO® City Undercover  
 Vehicles List : https://github.com/Calvineries/LCU-Vehicles-List  
-Table of contents:
+  
 - [Unused characters with a .TXT file](https://github.com/Calvineries/Lego-Games-Character-List#L8)
 - [Unused characters with only a .CD file](https://github.com/Calvineries/Lego-Games-Character-List#L130)
 - [Used Characters with a .TXT file](https://github.com/Calvineries/Lego-Games-Character-List#L217)
