@@ -3,7 +3,7 @@ Vehicles List : https://github.com/Calvineries/LCU-Vehicles-List
 
 ---
 
-Characters with a .TXT file
+Unused characters with a .TXT file
 |Character Name|Is in Collection?|Does the .TXT file work?
 |-|-|-|
 ALIEN|❌|
@@ -122,9 +122,10 @@ ROBBER2|❌|
 ROBBER3|❌|
 ROBBERJACKET|❌|
 ROBBER_VINNIEPAPPALARDOSUIT|❌|
+
 ---
 
-Characters with only a .CD file:
+Unused characters with only a .CD file:
 |Character Name|Is in Collection?|
 |-|-|
 3DSCOP2|❌
@@ -211,7 +212,7 @@ WORSTCASE|❌
 
 ---
 
-Characters with a .TXT file
+Used Characters with a .TXT file
 |Character Name|Is in Collection?
 |-|-|
 ASTRONAUT|✅
