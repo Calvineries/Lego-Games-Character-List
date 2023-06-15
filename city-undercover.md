@@ -29,10 +29,10 @@ CLASS_POLICE|❌|✅
 CLASS_ROBBER|❌|✅
 COLLECT_2-14A_LIFEGUARD|❌|❌
 COLLECT_5-01_ANCIENTEGYPTIANWOMAN|❌|❌
-COP1|❌|(works but broken character)
-COP2|❌|(works but broken character)
-COP3|❌|(works but broken character)
-COP4|❌|(works but broken character)
+COP1|❌|✅ (broken character)
+COP2|❌|✅ (broken character)
+COP3|❌|✅ (broken character)
+COP4|❌|✅ (broken character)
 COP_CHIEFBRADY|❌|✅
 COP_DUKEHUCKLEBERRY_HAT|❌|❓
 COP_HARBOURCOP|❌|❓
