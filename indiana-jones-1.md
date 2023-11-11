@@ -1,4 +1,4 @@
-LEGO® Indiana Jones™: The Original Adventures 
+Game: LEGO® Indiana Jones™: The Original Adventures 
   
 - [Unused characters with a .TXT file](#unusedtxt)
 - [Used characters with a .TXT file](#nusedtxt)
