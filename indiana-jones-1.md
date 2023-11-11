@@ -1,7 +1,6 @@
 LEGO® Indiana Jones™: The Original Adventures 
   
 - [Unused characters with a .TXT file](#unusedtxt)
-- [Unused characters with only a .GHG or .AN3 file](#unusedcd)
 - [Used characters with a .TXT file](#nusedtxt)
 ---
 
@@ -82,14 +81,6 @@ VENICECITIZEN_FEMALE|❌|❓
 VENICECITIZEN_MALE|❌|❓
 ZEPPLINPASSENGER_FEMALE|❌|❓
 ZEPPLINPASSENGER_MALE|❌|❓
-
----
-
-<a id="unusedcd"></a>
-## Unused characters with only a .GHG or .AN3 file:
-|Character Name|Is in Collection?|
-|-|-|
-❓|❓
 
 ---
 
