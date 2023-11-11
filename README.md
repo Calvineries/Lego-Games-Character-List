@@ -6,6 +6,7 @@ The lists can be used to complete "The Cutting Room Floor" pages or for those wh
 
 |Game|Release Date|Character List
 |-|-|-|
+LEGO® Indiana Jones™: The Original Adventures|2008|[indiana-jones-1.md](https://github.com/Calvineries/Lego-Games-Character-List/blob/main/indiana-jones-1.md)
 LEGO® Pirates of the Caribbean: The Video Game|2011|[pirates-of-the-caribbean.md](https://github.com/Calvineries/Lego-Games-Character-List/blob/main/pirates-of-the-caribbean.md)
 LEGO® Batman™ 2: DC Super Heroes|2012|[batman-2.md](https://github.com/Calvineries/Lego-Games-Character-List/blob/main/batman-2.md)
 LEGO® City Undercover|2013|[city-undercover.md](https://github.com/Calvineries/Lego-Games-Character-List/blob/main/city-undercover.md)
