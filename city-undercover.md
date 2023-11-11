@@ -1,5 +1,5 @@
-Game : LEGO® City Undercover  
-Vehicles List : https://github.com/Calvineries/LCU-Vehicles-List  
+Game: LEGO® City Undercover  
+Vehicles List: https://github.com/Calvineries/LCU-Vehicles-List  
   
 - [Unused characters with a .TXT file](#unusedtxt)
 - [Unused characters with only a .CD file](#unusedcd)
