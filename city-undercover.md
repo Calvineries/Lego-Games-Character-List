@@ -3,7 +3,7 @@ Vehicles List : https://github.com/Calvineries/LCU-Vehicles-List
   
 - [Unused characters with a .TXT file](#unusedtxt)
 - [Unused characters with only a .CD file](#unusedcd)
-- [Used Characters with a .TXT file](#nusedtxt)
+- [Used characters with a .TXT file](#nusedtxt)
 ---
 
 <a id="unusedtxt"></a>
@@ -221,7 +221,7 @@ WORSTCASE|❌
 ---
 
 <a id="nusedtxt"></a>
-## Used Characters with a .TXT file
+## Used characters with a .TXT file
 |Character Name|Is in Collection?
 |-|-|
 ASTRONAUT|✅
